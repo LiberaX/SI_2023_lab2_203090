@@ -2,7 +2,7 @@
 ## Димитар Грозданов 203090
 
 ### 2.
-![CFG graf](./CFG_SI-lab2-203090.png?)
+![CFG graf](./CFG_SI-lab2-203090.PNG?)
 
 ### 3.
 ```
@@ -86,7 +86,7 @@ test10:
 Го тестира случајот кога е повикан методот SILab2.function и очекува тој да се врати false.
 Исто така, проверува дали полето за корисничко име на корисничкиот објект останува непроменето.
 ```
-![EveryBranch-Excel](./EveryBranchM-203090.png?)
+![EveryBranch-Excel](./EveryBranchM-203090.PNG?)
 
 ### 5. Multiple Condition
 
